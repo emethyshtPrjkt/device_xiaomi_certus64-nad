@@ -11,8 +11,13 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"> 
+    <string name="ap_device_name_summary">Redmi 6/6A ( Certus )</string>
+    <string name="ap_chipset_type_summary">Mediatek MT6762/6761 Helio P22/A22</string>
+    <string name="ap_gpu_summary">PowerVR GE8320</string>
+    <string name="ap_camera_mp_summary">12+5+5mp Camera</string>
+    <string name="ap_screen_type_summary">IPS LCD 5.45' Screen</string>
 
-    <string name="maintainer_name">wulan17</string>
-
+    <!-- Maintainer -->
+    <string name="maintainer_name">kazusakiii27 with @wulan17`s tree</string>
 </resources>
